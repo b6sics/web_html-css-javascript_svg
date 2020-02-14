@@ -1,0 +1,235 @@
+body {
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	color: white;
+	background-image: radial-gradient(farthest-corner at 50% 100%,midnightblue, beige, olivedrab);
+}
+
+dl {
+	width: 1000px;
+	margin: 100px auto 10px;
+	padding: 40px;
+	border: 10px groove;
+	border-radius: 50px;
+	background-color: DarkTurquoise;
+	opacity: 0.8;
+	box-shadow: inset 5px 5px 15px 1px black;
+	transition: margin-top 5s ease-in-out 1s;
+}
+
+dl:hover {
+	margin-top: 10px;
+}
+
+dl:active {
+	transform-origin: top left;
+    animation-name: riszal;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes riszal {
+	0% {transform:  skewX(0deg)}
+    20% { transform:  skewX(-20deg);}
+    80% { transform:   skewX(20deg); }
+	100% {transform:  skewX(0deg)}
+}
+
+
+dt {
+	float: left;
+	clear: both;
+	width: 270px;
+	text-align: right;
+	font-weight: bold;
+}
+
+dd {
+	margin: 30px 0px 60px 380px;
+}
+
+dt, dd {
+	height: 100px;
+	font-size: 40pt;
+	text-align: center;
+	/*border: solid;*/
+}
+
+dt:nth-of-type(1) {
+	margin-top: 30px;
+}
+
+#defkif1 {
+    font-size: 2.5em;
+	border: 5px ridge;
+	border-radius: 25px 35px 25px 35px;
+	text-shadow: 2px 3px 1px orange;
+	box-shadow: 6px 7px 4px 1px green;
+	background-image: linear-gradient(tomato, moccasin, olive);
+	transition: transform 5s ease,
+				background-image 5s ease;
+}
+
+#defkif1:hover {
+	background-image: linear-gradient(olive, tomato, moccasin);
+	transform: rotate(10deg);
+}
+
+#defkif1:active {
+	background-image: repeating-linear-gradient(olive 15%, tomato 35%, moccasin 55%);
+}
+
+#defkif2 {
+    font-size: 2.5em;
+	border: 5px inset;
+	border-radius: 20px 30px 40px 35px;
+	text-shadow: 3px 4px 2px magenta;
+	box-shadow: 8px 9px 6px 5px magenta;
+	background-image: linear-gradient(-90deg, teal, aliceblue, mediumorchid);
+	transition: transform 5s ease-in,
+				background-image 5s ease-in;
+}
+
+#defkif2:hover {
+	background-image: linear-gradient(135deg, teal, aliceblue, mediumorchid);
+	transform: scale(1.1);
+}
+
+#defkif2:active {
+	background-image: repeating-linear-gradient(-45deg, teal 10%, aliceblue 20%, mediumorchid 30%);
+}
+
+#defkif3 {
+    font-size: 2.5em;
+	border: 5px outset;
+	border-radius: 10px 20px 30px 40px;
+	text-shadow: 4px 5px 1px yellow;
+	box-shadow: 10px 11px 1px 3px red;
+	background-image: linear-gradient(225deg, palevioletred, slateblue, lightslategray);
+	transition: transform 5s ease-out,
+				background-image 5s ease-out;
+}
+
+#defkif3:hover {
+	background-image: linear-gradient(-30deg, palevioletred, slateblue, lightslategray);
+	transform: skew(11deg);
+}
+
+#defkif3:active {
+	background-image: repeating-linear-gradient(-30deg, palevioletred 20%, slateblue 40%, lightslategray 60%);
+}
+
+#defdat1 {
+    font-size: 2.5em;
+	border: 5px double;
+	border-radius: 22px 32px 42px 12px;
+	text-shadow: 5px -6px 2px azure;
+	box-shadow: -12px -13px 10px 4px gray;
+	background-image: linear-gradient(darkmagenta 10%, mistyrose 70%, rosybrown 90%);
+	transition: background-image 5s ease;
+}
+
+#defdat1:hover {
+	background-image: linear-gradient(darkmagenta 25%, mistyrose 60%, rosybrown 80%);
+    animation-name: defdata1;
+    animation-duration: 5s;
+    animation-timing-function: ease;
+    animation-delay: 0s;
+    animation-iteration-count: 8;
+    animation-direction: alternate-reverse;
+}
+
+@keyframes defdata1 {
+	0%{ transform: rotate( 180deg );}
+	100%{ transform: rotate( 0deg );}
+}
+
+#defdat1:active {
+	background-image: repeating-linear-gradient(darkmagenta 10%, mistyrose 20%, rosybrown 30%);
+}
+
+#defdat2 {
+    font-size: 2.5em;
+	border: 5px dashed;
+	border-radius: 34px 44px 14px 24px;
+	text-shadow: 6px 7px 5px indigo;
+	box-shadow: 4px 5px 2px 16px blue;
+	background-image: radial-gradient(farthest-side at 40px 60px , indianred, cadetblue, gold);
+	transition: background-image 5s ease;
+}
+
+#defdat2:hover {
+	background-image: radial-gradient(farthest-corner at 5px 10px , indianred, cadetblue, gold);
+    animation-name: defdata2;
+    animation-duration: 5s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: 8;
+    animation-direction: reverse;
+}
+
+@keyframes defdata2 {
+	from{ transform: translateX( 0px );}
+	to{ transform: translateX( -30px );}
+}
+
+#defdat2:active {
+	background-image: repeating-radial-gradient(circle at 20px 40px , indianred 30%, cadetblue 50%, gold 90%);
+}
+
+#defdat3 {
+    font-size: 2.5em;
+	border: 5px dotted;
+	border-radius: 64px 16px 26px 36px;
+	text-shadow: 7px -8px 5px aquamarine;
+	box-shadow: -29px 34px 8px 47px pink;
+	background-image: radial-gradient(closest-side at 40px 60px , silver, tomato, forestgreen);
+	transition: background-image 5s ease;
+}
+
+#defdat3:hover {
+	background-image: radial-gradient(closest-corner at 40px 60px , silver, tomato, forestgreen);
+    animation-name: defdata3;
+    animation-duration: 5s;
+    animation-timing-function: ease-out;
+    animation-delay: 0s;
+    animation-iteration-count: 7;
+    animation-direction: reverse;
+}
+
+@keyframes defdata3 {
+	from{ transform: scale( 1.0 );}
+	to{ transform: scale( 1.2 );}
+}
+
+#defdat3:active {
+	background-image: repeating-radial-gradient(closest-corner at 40px 60px , silver 10%, tomato 50%, forestgreen 90%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
