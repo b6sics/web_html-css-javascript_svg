@@ -1,0 +1,513 @@
+index.html:
+S-Klasse bezeichnet die Oberklasse der Automarke Mercedes-Benz. Sie steht für luxuriöse Limousinen und Coupés. Im Herbst 1972 erschien mit der Baureihe 116 die erste offiziell von Mercedes-Benz (MB) so bezeichnete S-Klasse. Bereits vorher hatten die Spitzenmodelle von Mercedes-Benz die Bezeichnung S getragen.
+Das Coupé der S-Klasse, das es erstmals zur Baureihe 126 gab, wurde ab Herbst 1992 (Baureihe C 140), von 1999 bis 2014 (Baureihe C 215) stilistisch eigenständiger und trägt seit Mitte 1996 den Namen CL-Klasse. Mit dem C 217 wird seit Mitte 2014 wieder ein als S-Klasse Coupé bezeichnetes Modell vermarktet, die optische Eigenständigkeit des Coupés ist jedoch, wie im Automobilbau mittlerweile üblich, geblieben.
+Im Mai 2013 erschien die zehnte Generation der S-Klasse.
+<h3>Begriffsübertragung und Besonderheiten</h3>
+Erst mit der Einführung der Baureihe 116 im September 1972 war in den Prospekten von der „S-Klasse“ (Sonderklasse) die Rede, manchmal wurde bzw. wird der Vorgänger – die Baureihen W 108/109 – als „Alte S-Klasse“ bezeichnet. Mercedes-Benz bezeichnet die Modelle W 108/109 als „die eigentliche Geburtsstunde der S-Klasse, auch wenn man sie damals noch nicht so nannte.“ (Zitat aus Werbevideo zur Einführung der Baureihe 221). Harry Niemann schrieb in der „Illustrierten Chronik der Daimler-Benz AG“ (Herausgeber: Daimler-Benz-Konzernarchiv): „Auch wenn die Bezeichnung offiziell erst ab 1972 für die Baureihe 116 verwendet wurde, gelten als erste S-Klassen die Typen 250 S bis 300 SEL 6.3 (1965 bis 1972)“.
+Die S-Klasse der Baureihe 220 (1998–2005) zeichnet sich u. a. – mit Ausnahme des S 600, welcher ausschließlich mit Stahlfederung (Active Body Control) erhältlich war – durch eine serienmäßige Luftfederung aus. Diese gilt als aufwendig konstruiert und sehr robust.
+Die S-Klasse (221) wird ab Werk als Sonderschutzfahrzeug der Widerstandsklasse B6/B7 angeboten.
+Es gibt die S-Klasse (221) auch als Stretchlimousine (S 600 Pullman Guard). Sie ist nur mit der oben genannten Panzerung verfügbar.
+Die S-Klasse war in vielen Jahren das welt-, europa- und deutschlandweit meistverkaufte Oberklasse-Fahrzeug. Ausnahmen gab es (wie im Automobilmarkt üblich) gegen Ende und zu Anfang eines Modellzyklus. Zwei Beispiele: auf dem deutschen Markt wurden 2004 mehr BMW 7er als S-Klasse-Fahrzeuge verkauft; 2012 wurden mehr BMW 7er und mehr Audi A8 als S-Klassen verkauft.
+
+	  <table>
+	   <thead>
+	    <tr>
+		 <th>Bezeichnung</th>
+		 <th>Bauzeit</th>
+		 <th>Einstiegspreis</th>
+		 <th>Länge</th>
+		 <th>Breite</th>
+		 <th>Höhe</th>
+		 <th>Radstand</th>
+		 <th>Leergewicht</th>
+	    </tr>
+	   </thead>
+	   <tbody>
+		<tr>
+		 <td>Baureihe 116:</td>
+		 <td>1972&#8209;1980</td>
+		 <td>40.277&nbsp;€</td>
+		 <td>4960&nbsp;mm</td>
+		 <td>1870&nbsp;mm</td>
+		 <td>1410&nbsp;mm</td>
+		 <td>2860&nbsp;mm</td>
+		 <td>1660&nbsp;kg</td>
+		</tr>
+		<tr>
+		 <td>Baureihe 126:</td>
+		 <td>1979&#8209;1991</td>
+		 <td>42.800&nbsp;€</td>
+		 <td>4995&nbsp;mm</td>
+		 <td>1820&nbsp;mm</td>
+		 <td>1407&nbsp;mm</td>
+		 <td>2850&nbsp;mm</td>
+		 <td>1510&nbsp;kg</td>
+		</tr>
+		<tr>
+		 <td>Baureihe 140:</td>
+		 <td>1991&#8209;1998</td>
+		 <td>66.585&nbsp;€</td>
+		 <td>5113&nbsp;mm</td>
+		 <td>1886&nbsp;mm</td>
+		 <td>1486&nbsp;mm</td>
+		 <td>3065&nbsp;mm</td>
+		 <td>1890&nbsp;kg</td>
+		</tr>
+		<tr>
+		 <td>Baureihe 220:</td>
+		 <td>1998&#8209;2005</td>
+		 <td>77.410&nbsp;€</td>
+		 <td>5038&nbsp;mm</td>
+		 <td>1855&nbsp;mm</td>
+		 <td>1444&nbsp;mm</td>
+		 <td>2965&nbsp;mm</td>
+		 <td>1810&nbsp;kg</td>
+		</tr>
+		<tr>
+		 <td>Baureihe 221:</td>
+		 <td>2005&#8209;2013</td>
+		 <td>88.133&nbsp;€</td>
+		 <td>5079&nbsp;mm</td>
+		 <td>1872&nbsp;mm</td>
+		 <td>1473&nbsp;mm</td>
+		 <td>3035&nbsp;mm</td>
+		 <td>1880&nbsp;kg</td>
+		</tr>
+		<tr>
+		 <td>Baureihe 222:</td>
+		 <td>seit 2013</td>
+		 <td>85.671&nbsp;€</td>
+		 <td>5116&nbsp;mm</td>
+		 <td>1899&nbsp;mm</td>
+		 <td>1494&nbsp;mm</td>
+		 <td>3035&nbsp;mm</td>
+		 <td>1925&nbsp;kg</td>
+		</tr>
+	   </tbody>
+	  </table>
+	 
+	 
+	  
+mercedes-222.html:
+Die Mercedes-Benz Baureihe 222 ist die zehnte Generation der in der Oberklasse bzw. Luxusklasse angesiedelten S-Klasse der Marke Mercedes-Benz. Die Weltpremiere fand am 15. Mai 2013 in Hamburg statt. Die Produktion lief am 12. Juni an, während die Markteinführung auf den 20. Juli festgesetzt war.
+Die Limousine der Baureihe 222 tritt die Nachfolge der Baureihe 221 an. Das Coupé (C 217) löste ab Spätsommer 2014 den CL ab und wird als S-Klasse Coupé vermarktet. Im Februar 2015 erschien mit dem Mercedes-Maybach S 400 (China, Russland), S 500 und S 600 eine nochmals verlängerte Variante (X 222). Anfang 2016 wurde der Mercedes-Maybach S 600 Pullman (VV 222) eingeführt, eine nochmals auf 6,50 m verlängerte Pullman-Limousine.
+Der Einstiegspreis der Baureihe 222 lag zur Markteinführung bei rund 80.000 Euro.
+<br><br>
+<h3>Modellgeschichte</h3>
+<h4>Allgemeines</h4>
+Die Baureihe 222 basiert auf dem Vorgängermodell, der Baureihe 221, hat die gleiche Bodengruppe und dessen Typenzulassung (Carry-Over-Prinzip). Damit ist das neue Modell formal betrachtet eine Variante der Baureihe 221. Die Übernahme der Typenzulassung ist auch juristisch von Bedeutung, da weiterhin das Kältemittel R134a verwendet werden kann, das für Autos, deren Typenzulassung nach 2011 erfolgte, unzulässig ist. So konnte das unter Sicherheitsaspekten umstrittene, aber weniger klimaschädliche Kältemittel R1234yf vermieden werden. Zum Zeitpunkt der Markteinführung war Kältemittel R1234yf die einzige technisch mögliche Alternative für neue Typenzulassungen. Die Radstände sind infolge der Übernahme der Bodengruppe identisch mit denen des Vorgängermodells.
+Die Entwickler betonen, dass im Gegensatz zu den Vorgängergenerationen bei diesem Modell die Langversion (V 222) das Ausgangsmodell der Entwicklung war, wovon die Normalversion (W 222) abgeleitet wurde. Dies kann allerdings durch verschiedene Aussagen beispielsweise durch Bruno Sacco zur Baureihe 140 widerlegt werden, bei der von Anfang nur eine Version mit langem Radstand geplant war und erst gegen Ende der Entwicklung auch eine Version mit kurzem Radstand entstand. Grund jedenfalls für die Entscheidung den Fokus wieder auf die Langversion zu legen, sei die schwindende Bedeutung von Oberklasselimousinen in Europa durch gesunkene Absatzzahlen. Gleichzeitig wachsen der amerikanische und der chinesische Markt, der zu Beginn des zweiten Jahrzehnts der 2000er-Jahre sogar der bedeutendste des S-Klasse-Absatzes geworden ist. Auf diesen Märkten werden vorrangig die Langversionen als Chauffeurslimousinen abgesetzt, sodass der Schwerpunkt der Entwicklung auf der Langversion lag.
+Nach Produktionseinstellung der bisher über der S-Klasse angesiedelten Maybach-Limousinen gibt es neben den bisherigen Radständen (normal: W 222, lang: V 222) eine extralange Variante, die unter der Submarke Mercedes-Maybach geführt wird. Intern wird dieses Modell als X 222 bezeichnet.
+
+	  <table>
+	   <thead>
+		<tr>
+		 <td colspan=2><strong>Baureihe 222</strong></td>
+		</tr>
+	   </thead>
+	   <tbody>
+		<tr>
+		 <td>Verkaufsbezeichnung:</td>
+		 <td><em>S-Klasse</em></td>
+		</tr>
+		<tr>
+		 <td>Produktionszeitraum:</td>
+		 <td>seit 06/2013</td>
+		</tr>
+		<tr>
+		 <td>Klasse:</td>
+		 <td>Oberklasse</td>
+		</tr>
+		<tr>
+		 <td>Karosserieversionen:</td>
+		 <td>Limousine, Pullman-Limousine</td>
+		</tr>
+		<tr>
+		 <td>Motoren:</td>
+		 <td>
+		  Ottomotoren:<br />
+		  3,0&ndash;6,0 Liter<br />
+		  (245&ndash;463 kW)<br />
+		  Ottohybrid:<br />
+		  3,0&ndash;3,5 Liter (245&ndash;330 kW)<br />
+		  Dieselmotoren:<br />
+		  3,0 Liter<br />
+		  (190&ndash;250 kW)<br />
+		  Dieselhybrid:<br />
+		  2,1 Liter<br />
+		  (170 kW)
+		 </td>
+		</tr>
+		<tr>
+		 <td>Länge:</td>
+		 <td>5116&ndash;6499&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Breite:</td>
+		 <td>1899&ndash;1915&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Höhe:</td>
+		 <td>1494&ndash;1598&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Radstand:</td>
+		 <td>3035&ndash;4418&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Leergewicht:</td>
+		 <td>1925&ndash;2335&nbsp;kg</td>
+		</tr>
+	   </tbody>
+	  </table>
+	  
+	  
+
+mercedes-221.html:	  
+Die Mercedes-Benz Baureihe 221 ist ein Fahrzeug der Oberklasse von Mercedes-Benz, das zwischen September 2005 und Juni 2013 gebaut wurde. Sie trat die Nachfolge der Baureihe 220 an, deren Produktion Anfang 1998 begann und deren Verkauf Ende 2005 eingestellt worden war, und stellt die neunte Generation der S-Klasse dar. Der Öffentlichkeit wurde sie erstmals auf der IAA im September 2005 präsentiert und wurde ab Herbst 2005 ausgeliefert. Im Mai 2009 erfuhr sie eine Modellpflege. Seit ihrem Erscheinen bis zur Ablösung war die Baureihe 221 weltweit durchgehend Marktführer im Segment der Oberklasse-Limousinen.
+Modellgeschichte
+<br><br>
+<h3>Modellgeschichte</h3>
+<h4>Allgemeines</h4>
+Nachdem die S-Klasse beim vorhergegangenen Generationswechsel geschrumpft war, da das Modell der Baureihe 140 wegen seiner enormen Maße in Europa als unzeitgemäß empfunden worden war, wurde nun ein nach Maßen nur wenig, optisch aber deutlich größeres Auto vorgestellt, mit dem die Daimler AG (bis 2007 DaimlerChrysler) vor allem in Nordamerika und in China höhere Verkaufszahlen erzielte.
+Die Modelle mit langem Radstand tragen im Gegensatz zur Normalversion (W 221) die interne Bezeichnung V 221. Der V 221 war zudem ab Herstellerwerk auch als Sonderschutzfahrzeug unter der Bezeichnung S-Guard für die Versionen S 600 L und bis 2010 S 450 CDI erhältlich. Ein Wagen dieser Ausführung diente auch dem ehemaligen deutschen Bundespräsidenten Horst Köhler als Dienstwagen. Im Rahmen der Paris Motor Show 2008 wurde ein S 600 Pullman Guard in der höchsten Beschussklasse B6/B7 vorgestellt, der bei 4,32 m Radstand etwa 6,36 m lang ist.
+Das Coupé auf Basis der Baureihe 221 – die CL-Klasse (C 216) – wurde im September 2006 auf den Markt gebracht. Die mit Einführung ihrer Modellpflege Mitte 2010 erwartete Änderung der Bezeichnung des Coupés in S-Klasse Coupé wurde jedoch nicht realisiert, sondern erst ab 2014 mit dem Nachfolger C 217.
+Die Baureihe 221 bekam optional den ersten in Deutschland verfügbaren Infrarot-Nachtsichtassistenten. Zusätzlich zu den Bi-Xenonscheinwerfern leuchten weitreichende Infrarotscheinwerfer die Straße aus. Das reflektierte Licht und Wärmestrahlung von Objekten (Personen, Tiere, Fahrzeuge etc.) wird von einer Videokamera erfasst und das Bild auf dem TFT-Bildschirm im Kombiinstrument dargestellt. Dadurch wird die optische Sichtweite auf 120 m gesteigert, gegenüber ca. 60 m mit Abblendlicht. Bei entgegenkommenden Fahrzeugen, die mit dem gleichen System ausgestattet sind, funktioniert das System jedoch nicht einwandfrei. Zur Serienausstattung gehörten unter anderem auch Sicherheitsfunktionen: Adaptives Bremslicht (LED), Pre-Safe mit Bremsassistent BAS Plus, ab 2006 Pre-Safe-Bremse, elektromechanische Feststellbremse sowie gegen Aufpreis die um ein Nahbereichsradar erweiterte Distronic Plus. Auf dem nordamerikanischen Markt kam zudem seit November 2009 das vom Vorgängermodell übernommene, automatische Notrufsystem mbrace – als Nachfolger des abgelösten Tele-Aid-Systems zum Einsatz.
+Des Weiteren wurde die Kontrolllogik des elektronischen Bedien- und Anzeigesystems COMAND grundlegend erneuert worden und wird nun zentral über einen Dreh-Drück-Schiebe-Steller bedient, ähnlich dem Audi MMI oder BMW iDrive. Zudem war seit 10/2006 eine Mobiltelefonvorrüstung (Code 386) mit dem SIM-Access-Profile erhältlich. Die Baureihe 221 bot außerdem als erstes Automobil eine volldigitale und diskret integrierte 5.1-Surround-Sound-Anlage. Möglich machte dies die DTCP-Technik (Digital Transmission Content Protection). Diese digitale Verschlüsselung von Harman/Kardon ermöglicht eine kopiergeschützte Übertragung der Signale mittels Lichtwellenleiter von der Quelle bis zum Verstärker. Damit entfällt die Umwandlung digitaler Signale in analoge, wodurch erstmals moderne Multikanal-Formate von DVD-Audio und -Video sowie DTS-CDs verlustfrei im Fahrzeug abgespielt werden können.
+
+	  <table>
+	   <thead>
+		<tr>
+		 <td colspan=2><strong>Baureihe 221</strong></td>
+		</tr>
+	   </thead>
+	   <tbody>
+		<tr>
+		 <td>Verkaufsbezeichnung:</td>
+		 <td><em>S-Klasse</em></td>
+		</tr>
+		<tr>
+		 <td>Produktionszeitraum:</td>
+		 <td>09/2005&ndash;06/2013</td>
+		</tr>
+		<tr>
+		 <td>Klasse:</td>
+		 <td>Oberklasse</td>
+		</tr>
+		<tr>
+		 <td>Karosserieversionen:</td>
+		 <td>Limousine</td>
+		</tr>
+		<tr>
+		 <td>Motoren:</td>
+		 <td>
+		  Ottomotoren:<br />
+		  3,0&ndash;6,2 Liter<br />
+		  (170&ndash;463 kW)<br />
+		  Ottohybrid:<br />
+		  3,5 Liter (220 kW)<br />
+		  Dieselmotoren:<br />
+		  2,1&ndash;4,0 Liter<br />
+		  (150&ndash;235 kW)
+		 </td>
+		</tr>
+		<tr>
+		 <td>Länge:</td>
+		 <td>5079&ndash;5230&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Breite:</td>
+		 <td>1872&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Höhe:</td>
+		 <td>1473&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Radstand:</td>
+		 <td>3035&ndash;3165&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Leergewicht:</td>
+		 <td>1880&ndash;2270&nbsp;kg</td>
+		</tr>
+	   </tbody>
+	  </table>
+	  
+	  
+	  
+mercedes-220.html:
+Die Mercedes-Benz Baureihe 220 (S-Klasse) löste die Baureihe 140 ab und wurde von Oktober 1998 bis August 2005 angeboten.
+Die S-Klasse wurde als Limousine in zwei Radständen gebaut. Das entsprechende Coupé ist die CL-Klasse (C 215). Die S-Klasse war in vielen Ländern lange Zeit Marktführer im Segment der Oberklasse-Limousinen, wurde in ihrem letzten Produktionsjahr 2004 jedoch vom BMW 7er auf dem deutschen Markt abgelöst. Seit 1998 wurden 485.000 Fahrzeuge des Baumusters W 220 produziert. Der S 320 CDI war dabei das meistverkaufte Modell. Nachfolgemodell ist die Baureihe 221.
+<br><br>
+<h3>Modellgeschichte</h3>
+<h4>Allgemeines</h4>
+Nachdem der Vorläufer – die Baureihe 140 – für seine Größe und sein Gewicht kritisiert wurde, reduzierte man bei der Baureihe 220 die Abmessungen, Gewicht und Luftwiderstand. Das Gewicht wurde zum Beispiel beim S 320 gegenüber dem W140-Vorgänger mit 3,2-Liter-Sechszylinder-Reihenmotor und 170 kW Leistung (W220: 3,2-Liter-V6 mit 165 kW) von 1910 auf 1695 kg (Gesamtgewicht fahrfertig ohne Fahrer, Quelle: ATZ-Sonderheft zum W 220) verringert. Der Luftwiderstandsbeiwert (Cw-Wert) wurde von 0,31 auf 0,27 und der Luftwiderstandsindex (Cw-Wert × Stirnfläche) von 0,745 m2 auf 0,624 m2 gesenkt. Das ergab bessere Fahrleistungen und Verbrauchswerte. Am Beispiel des S 320 stieg die Höchstgeschwindigkeit von 225 km/h auf 240 km/h und die Beschleunigungszeit von 0 km/h auf 100 km/h sank von 8,9 s auf 8,2 s.
+Die Baureihe 220 war mit Ausnahme des S 600 L und der AMG-Versionen mit einer Luftfederung erhältlich. Der S 600 L sowie die AMG-Varianten haben dagegen das Active Body Control-Fahrwerk, das für die anderen Modelle gegen Aufpreis erhältlich war. Die Baureihe 220 ist somit nach dem technisch verwandten Mercedes-Benz C 215 das erste Auto aus deutscher Produktion, das mit einer aktiven Steuerung der Federung und Dämpfung lieferbar war.
+	  
+	  <table>
+	   <thead>
+		<tr>
+		 <td colspan=2>
+		  <strong>Baureihe 220</strong>
+		 </td>
+		</tr>
+	   </thead>
+	   <tbody>
+		<tr>
+		 <td>Verkaufsbezeichnung:</td>
+		 <td><em>S-Klasse</em></td>
+		</tr>
+		<tr>
+		 <td>Produktionszeitraum:</td>
+		 <td>10/1998&ndash;08/2005</td>
+		</tr>
+		<tr>
+		 <td>Klasse:</td>
+		 <td>Oberklasse</td>
+		</tr>
+		<tr>
+		 <td>Karosserieversionen:</td>
+		 <td>Limousine</td>
+		</tr>
+		<tr>
+		 <td>Motoren:</td>
+		 <td>
+		  Ottomotoren:<br />
+		  2,8&ndash;6,3 Liter<br />
+		  (150&ndash;450 kW)<br />
+		  Dieselmotoren:<br />
+		  3,2&ndash;4,0 Liter<br />
+		  (145&ndash;191 kW)
+		 </td>
+		</tr>
+		<tr>
+		 <td>Länge:</td>
+		 <td>5038&ndash;5163&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Breite:</td>
+		 <td>1855&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Höhe:</td>
+		 <td>1444&ndash;1449&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Radstand:</td>
+		 <td>2965&ndash;3085&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Leergewicht:</td>
+		 <td>1810&ndash;2135&nbsp;kg</td>
+		</tr>
+	   </tbody>
+	  </table>
+	  
+	  
+	  
+mercedes-140.html:
+Die Mercedes-Benz Baureihe 140 bezeichnet Fahrzeuge der Oberklasse, die im März 1991 als Nachfolger der Baureihe 126 auf dem Genfer Automobilsalon debütierte. Sie wurde unter der Bezeichnung Mercedes-Benz S-Klasse zwischen Juli 1991 und September 1998 gebaut. Das Fahrzeug wurde als Limousine (W 140), verlängerte Limousine (V 140) und als Coupé (C 140) angeboten. Von der Limousine wurden 406.717 Stück hergestellt, vom Coupé 26.025. Für Papst Johannes Paul II. wurde 1997 eine Sonderanfertigung ausgeliefert, ein S 500 lang Landaulet. Darüber hinaus existierte eine Pullman-Limousine des Herstellers als Repräsentationsfahrzeug.
+<br><br>
+<h3>Modellgeschichte</h3>
+<h4>Allgemeines</h4>
+Die Entwicklung begann 1981, der Produktionsstart war ursprünglich für Oktober 1989 vorgesehen. Der Chef-Designer war Bruno Sacco. Zwischen 1982 und 1986 wurden mehrere Gestaltungsentwürfe erarbeitet, am 9. Dezember 1986 wurde einer davon von Olivier Boulay ausgewählt. Mehrere Prototypen wurden danach getestet, und das endgültige Produktions-Design wurde 1987 eingefroren, deutsche Patente wurden am 23. Februar 1988 angemeldet. 1989 hatte Lexus die Oberklassen-Limousine LS 400 vorgestellt. Als Antwort auf deren Qualität und Ausstattung sah sich Daimler-Benz gezwungen, kurz vor dem Serienstart im Jahr 1991 noch Verbesserungen vorzunehmen, um die Marktpositionierung des W 140 zu festigen. Das führte zu einer Kostenüberschreitung und der Daimler-Benz-Chefentwickler Wolfgang Peter wurde entlassen.
+Der W 140 markiert einen deutlichen Technologiesprung bei Mercedes-Benz. Mit dem großen V12-Aggregat reagierte man auf den Wettbewerber BMW, der 1987 den E32 750i mit einem Zwölfzylindermotor auf den Markt gebracht hatte. Doppelverglasung, Vernetzung der Steuergeräte per CAN-Bus und die deutlich gewachsenen Außenabmessungen sollten den Führungsanspruch innerhalb der Oberklasse durch Mercedes-Benz deutlich machen.
+Das Kofferraumvolumen liegt bei 525 l (Limousine) respektive 505 l (Coupé). Die für den Luftwiderstand wirksame Querschnittsfläche (cw × A) beträgt 0,30 × 2,39 m2 bei der Limousine und 0,29 × 2,33 m2 beim Coupé. Der W140 verfügt über eine Kugelumlauflenkung mit Parameterfunktion. Die Fußbremse ist eine hydraulische Zweikreis-Bremsanlage mit Unterdruck-Bremskraftverstärker und innenbelüfteten Scheibenbremsen vorne und hinten; die Feststellbremse ist fußbetätigt und wirkt mechanisch auf die Hinterräder.
+
+	  <table>
+	   <thead>
+		<tr>
+		 <td colspan=2><strong>Baureihe 140</strong></td>
+		</tr>
+		<tr>
+	   </thead>
+	   <tbody>
+		 <td>Verkaufsbezeichnung:</td>
+		 <td>
+		  <em>SE/SEL/SD (1991&ndash;1993)<br /> S-Klasse (1993&ndash;1998)</em>
+		 </td>
+		</tr>
+		<tr>
+		 <td>Produktionszeitraum:</td>
+		 <td>1991&ndash;1998</td>
+		</tr>
+		<tr>
+		 <td>Klasse:</td>
+		 <td>Oberklasse</td>
+		</tr>
+		<tr>
+		 <td>Karosserieversionen:</td>
+		 <td>Limousine,&nbsp;Pullman-Limousine</td>
+		</tr>
+		<tr>
+		 <td>Motoren:</td>
+		 <td>
+		  Ottomotoren:<br /> 
+		  2,8&ndash;6,0 Liter<br /> 
+		  (142&ndash;300 kW)<br /> 
+		  Dieselmotoren:<br /> 
+		  3,0&ndash;3,5 Liter<br /> 
+		  (110&ndash;130 kW)
+		 </td>
+		</tr>
+		<tr>
+		 <td>Länge:</td>
+		 <td>5113&ndash;5213&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Breite:</td>
+		 <td>1886&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Höhe:</td>
+		 <td>1486&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Radstand:</td>
+		 <td>3065&ndash;3165&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Leergewicht:</td>
+		 <td>1890&ndash;2250&nbsp;kg</td>
+		</tr>
+	   </tbody>
+	  </table>
+	  
+	  
+	  
+mercedes-126.html:
+Die Baureihe 126 ist eine Fahrzeugbaureihe der Oberklasse von Mercedes-Benz. Ab September 1979 löste sie die Baureihe 116 als S-Klasse ab. Im September 1981 stellte Mercedes die Coupé-Variante (C 126) der Baureihe 126 auf der IAA in Frankfurt als Nachfolger des C 107 vor. Die Produktion endete offiziell im Oktober 1991. Bis April 1992 wurden aber noch 38 weitere Fahrzeuge in Sonderschutzausführung gefertigt. Mercedes-Benz South Africa fertigte die Baureihe 126 in kleiner Stückzahl bis zum Jahr 1994.
+Insgesamt wurden 892.123 Exemplare produziert, davon waren 74.060 Coupés. Im Oberklasse-Segment war die Baureihe 126 unangefochtener Weltmarktführer, bis heute ist sie die erfolgreichste jemals gebaute Oberklasselimousine. Nachfolgemodell ist die Baureihe 140, deren Produktion im Juli 1991 anlief.
+<br><br>
+<h3>Modellgeschichte</h3>
+<h4>Allgemeines</h4>
+Die Baureihe 126 der Mercedes-Benz S-Klasse wurde über zwölf Jahre lang produziert, im Automobilbereich bei Großserienfahrzeugen ein ungewöhnlich langer Modellzyklus. Während dieser Produktionszeit wurde die Baureihe stets weiterentwickelt und verbessert. Daher spricht man bei Fahrzeugen, die bis August 1985 produziert wurden, von der ersten, und bei Fahrzeugen, die danach gebaut wurden, von der zweiten Serie, die im September 1985 auf der IAA in Frankfurt präsentiert wurde.
+Im Jahre 1985 erfuhr die Baureihe eine größere Modellpflegemaßnahme, die sogenannte zweite Serie. Dabei wurde das Exterieurdesign behutsam modifiziert, neben geänderten Stoßfängern, Seitenbeplankungen und Leichtmetallfelgen (bzw. Radzierkappen) kamen neu entwickelte Motoren zum Einsatz. Ebenfalls im September endeten jeweils die sogenannten Modelljahre. So zählen Modelle, die bis September produziert wurden zum damals aktuellen, die nach September produzierten zum darauf folgenden Modelljahr. Bis auf eine geringe Anzahl von Fahrzeugen aus Südafrika wurden alle W126 in Sindelfingen gefertigt.
+
+	  <table>
+	   <thead>
+		<tr>
+		 <td colspan=2><strong>Baureihe 126</strong></td>
+		</tr>
+	   </thead>
+	   <tbody>
+		<tr>
+		 <td>Verkaufsbezeichnung:</td>
+		 <td><em>S-Klasse</em></td>
+		</tr>
+		<tr>
+		 <td>Produktionszeitraum:</td>
+		 <td>09/1979&ndash;10/1991</td>
+		</tr>
+		<tr>
+		 <td>Klasse:</td>
+		 <td>Oberklasse</td>
+		</tr>
+		<tr>
+		 <td>Karosserieversionen:</td>
+		 <td>Limousine,&nbsp;Coup&eacute;&nbsp;(C 126)</td>
+		</tr>
+		<tr>
+		 <td>Motoren:</td>
+		 <td>
+		  Ottomotoren:<br />
+		  2,6&ndash;5,6 Liter<br />
+		  (115&ndash;220 kW)<br />
+		  Dieselmotoren:<br />
+		  3,0&ndash;3,5 Liter<br />
+		  (89&ndash;108 kW)
+		 </td>
+		</tr>
+		<tr>
+		 <td>Länge:</td>
+		 <td>4995&ndash;5160&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Breite:</td>
+		 <td>1820&ndash;1828&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Höhe:</td>
+		 <td>1407&ndash;1446&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Radstand:</td>
+		 <td>2850&ndash;3075&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Leergewicht:</td>
+		 <td>1510&ndash;1590&nbsp;kg</td>
+		</tr>
+	   </tbody>
+	  </table>
+	  
+	  
+	  
+mercedes-116.html:
+Die Mercedes-Benz Baureihe 116 bezeichnet die Oberklasse-Limousinen, die die damalige Daimler-Benz AG ab September 1972 auf den Markt brachte.
+Mit dieser Baureihe wurde der Begriff „S-Klasse“ ins Leben gerufen; Daimler-Benz selbst sieht die Vorgänger W 108/W 109 als eigentliche Geburtsstunde der S-Klasse. Die Bezeichnung W 116 steht für die Limousinen, die Langversion „SEL“ wird als V 116 bezeichnet.
+Nachfolgemodell wurde im September 1979 die Baureihe 126. Einige Modelle der Baureihe 116 wurden noch bis September 1980 weitergebaut.
+<br><br>
+<h3>Allgemeines</h3>
+<h4>Entwicklung und Vorstellung</h4>
+1966 begann die Entwicklung der Baureihe W 116. Ziel dabei war größtmöglicher Komfort bei bis dahin unerreichter passiver Sicherheit. Federführend war der Technikvorstand Hans Scherenberg. 1971 sagte der Verband der Automobilindustrie (VDA) als Veranstalter der Internationalen Automobil-Ausstellung die IAA Pkw ab. Das neue Modell wurde erst am 25. September 1972 an der spanischen Costa Brava vorgestellt.
+Die neue Formen- und Designsprache wurde vom R 107 vorweggenommen, der bereits im April 1971 präsentiert worden war. Der W 116 war deutlich länger, breiter, niedriger und weniger filigran gestaltet als das Vorgängermodell: Sicherheitsaspekte flossen in das Interieur- wie das Exterieurdesign ein. Der Wagen wurde im Windkanal untersucht, der cw-Wert beträgt 0,41. Auch waren erstmals Scheinwerfer und Kühlergrill horizontal ausgelegt; dieses Stilmerkmal findet sich bis heute bei allen Mercedes-Modellen wieder. Markant waren auch die parallel laufenden Scheibenwischer sowie der umfassend gepolsterte Innenraum. Hier wurden alle Oberflächen gepolstert sowie Bedienelemente versenkt integriert. Hier schlugen sich die Erfahrungen aus dem Mercedes-Benz ESF (Experimentier-Sicherheits-Fahrzeugen) nieder.
+Verantwortlicher Designer war ein letztes Mal Friedrich Geiger. Zahlreiche gestalterische Merkmale wurden später in anderen Modellen eingesetzt; insbesondere in der 1975 erschienenen Mittelklasse-Baureihe 123.
+
+	  <table>
+	   <thead>
+		<tr>
+		 <td colspan=2><strong>Baureihe 116</strong></td>
+		</tr>
+	   </thead>
+	   <tbody>
+		<tr>
+		 <td>Verkaufsbezeichnung:</td>
+		 <td><em>S-Klasse</em></td>
+		</tr>
+		<tr>
+		 <td>Produktionszeitraum:</td>
+		 <td>09/1972&ndash;09/1980</td>
+		</tr>
+		<tr>
+		 <td>Klasse:</td>
+		 <td>Oberklasse</td>
+		</tr>
+		<tr>
+		 <td>Karosserieversionen:</td>
+		 <td>Limousine</td>
+		</tr>
+		<tr>
+		 <td>Motoren:</td>
+		 <td>
+		  Ottomotoren:<br />
+		  2,8&ndash;6,9 Liter<br />
+		  (115&ndash;210 kW)<br />
+		  Dieselmotor:<br />
+		  3,0 Liter<br />
+		  (85 kW)
+		 </td>
+		</tr>
+		<tr>
+		 <td>Länge:</td>
+		 <td>4960&ndash;5060&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Breite:</td>
+		 <td>1870&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Höhe:</td>
+		 <td>1410&ndash;1430&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Radstand:</td>
+		 <td>2860&ndash;2965&nbsp;mm</td>
+		</tr>
+		<tr>
+		 <td>Leergewicht:</td>
+		 <td>1660&ndash;1985&nbsp;kg</td>
+		</tr>
+	   </tbody>
+	  </table>
