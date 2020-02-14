@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>22 SVG - transfer</title>
+</head>
+
+<body>
+
+    <SVG width=1000 height=1400>
+
+        <G stroke-width=1>
+            <ELLIPSE id=ellipszis cx=385 cy=520 rx=40 ry=85 stroke=deepPink fill=cornsilk />
+        </G>
+
+        <DEFS>
+
+            <ANIMATETRANSFORM xlink:href=#ellipszis attributeName=transform attributeType=XML type=rotate
+                from="0 320 420" to="340 285 390" dur=7s additive=sum fill=freeze />
+            <ANIMATETRANSFORM xlink:href=#ellipszis attributeName=transform attributeType=XML type=skewX by=20 dur=7s
+                additive=sum fill=freeze />
+
+        </DEFS>
+
+    </SVG>
+</body>
+
+</html>

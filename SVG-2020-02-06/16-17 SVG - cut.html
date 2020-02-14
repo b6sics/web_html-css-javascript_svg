@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SVG-01</title>
+</head>
+
+<body>
+
+    <SVG width=1000 height=1400>
+
+        <G stroke-width=1>
+            <ELLIPSE id=ellipszis cx=385 cy=520 rx=40 ry=85 stroke=deepPink fill=cornsilk clip-path="url(#levagas)" />
+        </G>
+
+        <DEFS>
+
+            <CLIPPATH id=levagas clipPathUnits=userSpaceOnUse>
+                <RECT x=335 y=510 width=200 height=100 />
+            </CLIPPATH>
+
+        </DEFS>
+
+    </SVG>
+</body>
+
+</html>

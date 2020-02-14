@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>14-15 SVG - pattern</title>
+</head>
+
+<body>
+
+    <SVG width=1000 height=1400>
+        <RECT id=negyzet x=720 y=450 width=190 height=190 stroke=grey stroke-width=3 fill=url(#mintazat) />
+
+        <DEFS>
+
+            <PATTERN id=mintazat x=0 y=0 width=.25 height=.25>
+                <RECT x=0 y=0 width=50 height=50 fill=wheat />
+                <RECT x=0 y=0 width=25 height=25 stroke=darkviolet stroke-opacity=0.9 fill=none />
+                <CIRCLE cx=25 cy=25 r=20 fill=darkgreen fill-opacity=0.5 />
+            </PATTERN>
+
+        </DEFS>
+
+    </SVG>
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>03 SVG - line</title>
+</head>
+
+<body>
+
+    <SVG width=1000 height=1400>
+
+        <LINE id=vonal 
+              x1=440 y1=10 
+              x2=750 y2=80 
+              stroke=ForestGreen 
+              stroke-width=3 stroke-dasharray="10 5" stroke-dashoffset=3 />
+              <!—— milyen hosszú vonalak, milyen közökkel és mennyivel eltolva kezdje a vonalkázást ——>
+
+        <POLYLINE points="397 301 468 392 529 318 584 385 651 336 694 406 735 359" stroke=deepSkyBlue
+            fill=transparent stroke-width=15 stroke-linecap=round stroke-linejoin=bewel />
+            <!—— linecap: a végei lekerekítettek; linejoin: a töréseknél levágottak ——>
+
+        <POLYGON id=sokszog 
+                 points="119,1 124,21 139,21 129,31 134,46 119,36 104,46 109,31 99,21 114,21" 
+                 stroke=mediumPurple
+                 fill=transparent 
+                 stroke-width=3 
+                 transform="translate(40,30) 
+                            rotate(20) 
+                            scale(2.5) 
+                            skewX(15)" />
+
+    </SVG>
+</body>
+
+</html>

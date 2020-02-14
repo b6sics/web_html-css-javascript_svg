@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>SVG-01</title>
+</head>
+
+<body>
+
+    <SVG width=1000 height=1400>
+        <RECT id=negyzet x=720 y=450 width=190 height=190 stroke=grey stroke-width=3 fill=url(#mintazat) />
+        <RECT id=teglalap x=350 y=120 rx=10 ry=20 width=150 height=100 stroke=#000000 fill=url(#szinatmenet)
+            stroke-width=2 />
+
+        <G stroke-width=1>
+            <CIRCLE id=kor cx=840 cy=275 r=50 stroke=gainsboro fill=url(#szinatmenet2) />
+            <ELLIPSE id=ellipszis cx=385 cy=520 rx=40 ry=85 stroke=deepPink fill=cornsilk clip-path="url(#levagas)" />
+        </G>
+
+        <LINE id=vonal x1=440 y1=10 x2=750 y2=80 stroke=ForestGreen stroke-width=3 stroke-dasharray="10 5"
+            stroke-dashoffset=3 />
+
+        <POLYLINE points="397 301 468 392 529 318 584 385 651 336 694 406 735 359" stroke=deepSkyBlue
+            fill=transparent stroke-width=15 stroke-linecap=round stroke-linejoin=bewel />
+
+        <POLYGON points="119,1 124,21 139,21 129,31 134,46 119,36 104,46 109,31 99,21 114,21" stroke=mediumpurple
+            fill=transparent stroke-width=3 id=sokszog transform="translate(40,30) rotate(20) scale(1.5) skewX(10)" />
+
+        <PATH d="M50,600 
+                 L100,650 
+                 l25,3 
+                 V570 
+                 h80 
+                 Q40,500 170,460
+                 T180,380
+                 C310 360,250 310,270 240
+                 S70,180 90,120
+                 A30,90 40 1,0 162.55,194.45
+                 Z" id=nyomvonal fill=url(#folytatas) stroke=DarkOliveGreen stroke-width=3 />
+
+        <TEXT x=0 y=25 font-family=Jokerman font-size=30 font-style=italic font-weight=bold font-variant=small-caps
+            letter-spacing=3 word-spacing=5 text-decoration=underline fill=RoyalBlue>
+            <TEXTPATH xlink:href="#szoveggorbe">
+                <A xlink:href="http://svg.elte.hu/html/fuggelek/terkep/terkep.html" target=_blank fill=MediumTurquoise>
+                    Scalable Vector Graphic - Scalable Vector Graphic
+                </A>
+            </TEXTPATH>
+        </TEXT>
+
+        <TEXT id=szoveg font-size=60 text-anchor=middle fill=DarkGray>
+            <TSPAN x=750 y=45>S</TSPAN>
+            <TSPAN x=790 y=75>V</TSPAN>
+            <TSPAN x=815 y=105>G</TSPAN>
+        </TEXT>
+
+        <IMAGE xlink:href="evszakok.jpg" x=200 y=660 width=640 height=360 filter="url(#szuro1)" />
+        <IMAGE xlink:href="balna.jpg" x=100 y=1070 width=848 height=274 filter="url(#szuro2)" />
+
+        <DEFS>
+            <LINEARGRADIENT id=szinatmenet x1=0 x2=0 y1=0 y2=1 gradientUnits=objectBoundingBox>
+
+                <STOP offset=0% stop-color=#F00 />
+                <STOP offset=50% stop-color=#000 stop-opacity=0 />
+                <STOP offset=100% stop-color=#0F0 />
+            </LINEARGRADIENT>
+
+            <RADIALGRADIENT id=szinatmenet2 r=0.5 cx=0.5 cy=0.5 fx=0.25 fy=0.25>
+
+                <STOP offset=0% stop-color=DarkOrange />
+                <STOP offset=100% stop-color=DarkSlateblue>
+                    <ANIMATE attributeName=stop-color values="DarkGoldenRod;DarkBlue" keyTimes="0;1" begin=4s dur=8s
+                        repeatCount=3 />
+                </STOP>
+            </RADIALGRADIENT>
+
+            <RADIALGRADIENT id=folytatas xlink:href=#szinatmenet2 spreadMethod=pad />
+            <RADIALGRADIENT id=ismetles xlink:href=#szinatmenet2 spreadMethod=repeat />
+            <RADIALGRADIENT id=tukrozes xlink:href=#szinatmenet2 spreadMethod=reflect />
+
+            <PATTERN id=mintazat x=0 y=0 width=.25 height=.25>
+                <RECT x=0 y=0 width=50 height=50 fill=wheat />
+                <RECT x=0 y=0 width=25 height=25 stroke=darkviolet stroke-opacity=0.9 fill=none />
+                <CIRCLE cx=25 cy=25 r=20 fill=darkgreen fill-opacity=0.5 />
+            </PATTERN>
+
+            <CLIPPATH id=levagas clipPathUnits=userSpaceOnUse>
+                <RECT x=335 y=510 width=200 height=100 />
+            </CLIPPATH>
+
+            <PATH id=szoveggorbe d="M 10,90 Q 100,15 300,50 Q 840,220 940,70" />
+
+            <ANIMATE xlink:href=#vonal attributeName="stroke-width" attributeype=auto from=3 to=7 dur=6.1 fill=remove />
+            <ANIMATE xlink:href=#kor attributeName=r attributeype=XML by=40 begin=1 dur=5 repetCount=indefinite />
+            <ANIMATE xlink:href=#szoveg attributeName=fill attributeype=XML from=DarkGray to=DarkOrchid begin=1s dur=4
+                fill=freeze />
+
+            <ANIMATEMOTION xlink:href=#negyzet by="-400,10" dur=4s fill=freeze />
+            <ANIMATEMOTION xlink:href=#teglalap path="M 0 0 c 60 -60 170 80 250 30" begin=1.2 dur=5.3
+                repeatCount=indefinite />
+            <ANIMATEMOTION xlink:href=#sokszog begin=1.2 dur=5.3>
+                <MPATH xlink:href=#nyomvonal />
+            </ANIMATEMOTION>
+
+            <ANIMATETRANSFORM xlink:href=#ellipszis attributeName=transform attributeType=XML type=rotate
+                from="0 320 420" to="340 285 390" dur=7s additive=sum fill=freeze />
+            <ANIMATETRANSFORM xlink:href=#ellipszis attributeName=transform attributeType=XML type=skewX by=20 dur=7s
+                additive=sum fill=freeze />
+
+            <FILTER id=szuro1>
+                <feGaussianBlur stdDeviation=2 />
+
+                <feMorphology operator=erode radius=1 />
+
+                <feMorphology operator=dilate radius=4 />
+
+                <feColorMatrix type=saturate values=3 />
+
+                <feColorMatrix type=hueRotate values=90 />
+
+            </FILTER>
+
+            <FILTER id=szuro2>
+                <feTurbulence type=fractalNoise baseFrequency="0.015" numOctaves=2 result=turbulence_3
+                    data-filterId=3 />
+
+                <feDisplacementMap xChannelSelector=R yChannelSelector=G in=SourceGraphic in2=turbulence_3 scale=65 />
+
+                <feColorMatrix type=luminanceToAlpha />
+
+                <feDiffuseLighting diffuseConstant=1 surfaceScale=10 result=diffuse3>
+                    <feDistantLight elevation=28 azimuth=90 />
+                </feDiffuseLighting>
+
+                <feColorMatrix type=matrix values=".343 .669 .119 0 0
+                                                        .249 .626 .130 0 0
+                                                        .172 .334 .111 0 0
+                                                        .000 .000 .000 1  " />
+
+                <feComposite operator=in in2=inputTo_3 />
+
+            </FILTER>
+
+        </DEFS>
+
+    </SVG>
+</body>
+
+</html>

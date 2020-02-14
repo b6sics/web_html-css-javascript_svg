@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>07 SVG - image</title>
+</head>
+
+<body>
+
+    <SVG width=1000 height=1400>
+
+        <POLYGON points="119,1 124,21 139,21 129,31 134,46 119,36 104,46 109,31 99,21 114,21" stroke=Purple
+            fill=transparent stroke-width=3 id=sokszog transform="translate(40,30) rotate(20) scale(1.5) skewX(10)" />
+
+        <IMAGE xlink:href="evszakok.jpg" x=200 y=60 width=640 height=360 />
+        <IMAGE xlink:href="balna.jpg" x=100 y=470 width=848 height=274 />
+        
+        <USE xlink:href=#sokszog />
+
+    </SVG>
+</body>
+
+</html>

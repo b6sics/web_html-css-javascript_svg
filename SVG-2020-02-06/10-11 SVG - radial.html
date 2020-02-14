@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>10-11 SVG - radial</title>
+</head>
+
+<body>
+
+    <SVG width=1000 height=1400>
+
+        <G stroke-width=1>
+            <CIRCLE id=kor cx=840 cy=275 r=50 stroke=gainsboro fill=url(#szinatmenet2) />
+        </G>
+
+
+        <DEFS>
+
+            <RADIALGRADIENT id=szinatmenet2 r=0.5 cx=0.5 cy=0.5 fx=0.25 fy=0.25>
+
+                <STOP offset=0% stop-color=DarkOrange />
+                <STOP offset=100% stop-color=DarkSlateblue>
+                    <ANIMATE attributeName=stop-color values="DarkGoldenRod;DarkBlue" keyTimes="0;1" begin=4s dur=8s
+                        repeatCount=3 />
+                </STOP>
+
+            </RADIALGRADIENT>
+
+        </DEFS>
+
+    </SVG>
+</body>
+
+</html>

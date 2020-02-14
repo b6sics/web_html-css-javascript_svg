@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>04 SVG - path</title>
+</head>
+
+<body>
+
+    <SVG width=1000 height=1400>
+
+        <PATH id=nyomvonal
+              d="M50 600                        
+                 L100 650 
+                 l25 3 
+                 V570 
+                 h80 
+                 Q40 500 170 460
+                 T180 380
+                 C310 360 250 310 270 240
+                 S70 180 90 120
+                 A30 90 40 1 0 162.55 194.45
+                 Z"
+                 stroke=DarkOliveGreen stroke-width=3
+                 fill=none />
+ 
+    </SVG>
+
+<ul>
+  <li><a href="https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_path">M = moveto</a></li>
+  <li><a href="https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_path">L = lineto</a></li>
+  <li><a href="#">H = horizontal lineto</a></li>
+  <li><a href="#">V = vertical lineto</a></li>
+  <li><a href="http://svg.elte.hu/html/tema/09gorbe/gorbe.html#bezier">C = curveto</a></li>
+  <li><a href="http://svg.elte.hu/html/tema/09gorbe/gorbe.html#bezier">S = smooth curveto</a></li>
+  <li><a href="https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_path2">Q = quadratic Bézier curve</a></li>
+  <li><a href="http://svg.elte.hu/html/tema/09gorbe/gorbe.html#bezier">T = smooth quadratic Bézier curveto</a></li>
+  <li><a href="http://svg.elte.hu/html/tema/09gorbe/gorbe.html#ellipszisiv">A = elliptical Arc</a></li>
+  <li><a href="https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_path">Z = closepath</a></li>
+</ul>
+<p>
+Note: All of the commands above can also be expressed with lower letters. Capital letters means absolutely positioned, lower cases means relatively positioned.
+</p>
+
+</body>
+
+</html>
