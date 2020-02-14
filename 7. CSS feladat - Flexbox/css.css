@@ -1,0 +1,118 @@
+main {
+    display: flex;
+    min-width: 220vw;
+    border: 3px groove;
+}
+
+article {
+    flex: 0 0 200px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    box-shadow: inset 2px 2px 6px 0 rgba(0, 0, 0, 0.3);
+}
+
+img {
+    max-width: 100%;
+}
+
+div {
+    max-width: 290px;
+    padding: 0 20px 20px 20px;
+}
+
+input[value="row"][name="irany"]:checked ~ main {
+    flex-direction: row;
+}
+input[value="row_reverse"][name="irany"]:checked ~ main {
+    flex-direction: row-reverse;
+}
+
+input[value^="row"][name="irany"]:checked ~ main {
+    min-width: 220vw;
+    min-height: auto;
+}
+
+
+input[value="column"][name="irany"]:checked ~ main {
+    flex-direction: column;
+}
+input[value="column_reverse"][name="irany"]:checked ~ main {
+    flex-direction: column-reverse;
+}
+
+input[value^="column"][name="irany"]:checked ~ main {
+    min-width: auto;
+    min-height: 500vw;
+}
+
+
+input[value="flex_start"][name="h_align"]:checked ~ main {
+    justify-content: flex-start;
+}
+input[value="flex_end"][name="h_align"]:checked ~ main {
+    justify-content: flex-end;
+}
+input[value="center"][name="h_align"]:checked ~ main {
+    justify-content: center;
+}
+input[value="space_between"][name="h_align"]:checked ~ main {
+    justify-content: space-between;
+}
+input[value="space_around"][name="h_align"]:checked ~ main {
+    justify-content: space-around;
+}
+
+input[value="stretch"][name="v_align"]:checked ~ main {
+    align-items: stretch;
+}
+input[value="center"][name="v_align"]:checked ~ main {
+    align-items: center;
+}
+input[value="flex_start"][name="v_align"]:checked ~ main {
+    align-items: flex-start;
+}
+input[value="flex_end"][name="v_align"]:checked ~ main {
+    align-items: flex-end;
+}
+input[value="baseline"][name="v_align"]:checked ~ main {
+    align-items: baseline;
+}
+
+input[value="nowrap"][name="linewrap"]:checked ~ main {
+    flex-wrap: nowrap;
+}
+input[value="wrap"][name="linewrap"]:checked ~ main {
+    flex-wrap: wrap;
+}
+input[value="wrap_reverse"][name="linewrap"]:checked ~ main {
+    flex-wrap: wrap-reverse;
+}
+
+input[value^="wrap"][name="linewrap"]:checked ~ main {
+    min-width: auto;
+    min-height: auto;
+    max-width: 1500px;
+    max-height: 2200px;
+}
+
+
+input[value="stretch"][name="contentalign"]:checked ~ main {
+    align-content: stretch;
+}
+input[value="center"][name="contentalign"]:checked ~ main {
+    align-content: center;
+}
+input[value="flex_start"][name="contentalign"]:checked ~ main {
+    align-content: flex-start;
+}
+input[value="flex_end"][name="contentalign"]:checked ~ main {
+    align-content: flex-end;
+}
+input[value="space_between"][name="contentalign"]:checked ~ main {
+    align-content: space-between;
+}
+input[value="space_around"][name="contentalign"]:checked ~ main {
+    align-content: space-around;
+}
+
+
