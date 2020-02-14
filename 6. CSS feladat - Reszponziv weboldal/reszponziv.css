@@ -1,0 +1,177 @@
+* {
+}
+
+body {
+    font-size: 110%;
+    background-color: black;
+    background-image: url('Forras/mercedes-hatter.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+}
+
+div {
+    max-width: 1920px;
+    padding: 0;
+    margin: 0 0.5% 0 0.5%;
+}
+
+div, nav {
+    background-color: gray;
+}
+
+header, footer, section {
+    background-color: white;
+}
+
+footer, section, article, aside, h1 {
+    padding: 1%;
+}
+
+footer {
+    font-size: 1.5em;
+    color: gray;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    width: 10vw;
+}
+
+section {
+    margin-left: 10vw;
+}
+
+section, aside {
+    overflow: auto;
+}
+
+article {
+    float: left;
+    width: 55vw;
+    text-align: justify;
+}
+
+h3, h4 {
+    margin: 20px 0;
+    text-align: left;
+}
+
+aside {
+    margin-left: 55vw;
+}
+
+aside img {
+    margin-top: 20px;
+}
+
+aside table, aside > img {
+    width: 100%;
+}
+
+aside table, aside table th, aside table td {
+    border: solid 1px black;
+}
+
+aside table th {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+h1 {
+    margin: 0;
+    color: white;
+    background-color: #635C4A;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+ul li {
+    border: solid;
+    padding: 4px;
+    margin: 0.5%;
+    background-color: #91907E;
+}
+
+ul li a {
+    display: block;   
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+ul li:hover, .aktiv {
+    background-color: #635C4A;
+}
+
+div, header, main, footer {
+    opacity: 0.7;
+}
+
+header:hover, main:hover, footer:hover {
+    opacity: 0.99;
+}
+
+@media only screen and (max-width: 1200px) {
+    article {
+        float: none;
+        max-width: 100%;
+        width: auto;
+        height: auto;
+        padding: 2%;
+    }
+    aside{
+        margin-left: 0;
+        padding: 2%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+        font-size: 100%;
+    }
+    section {
+        margin-left: 0;
+    }
+    article {
+        margin-left: 0;
+        padding: 2%;
+        height: auto;
+    }
+    nav {
+        float: none;
+        width: auto;
+        height: auto;
+        text-align: center;
+    }
+    nav ul li {
+        display: inline-block;
+        padding: 3px 20px 3px 20px;
+        margin: 2px; 
+    }
+    header {
+        text-align: center;
+    }
+    footer {
+        font-size: 1em;
+    }
+}
+
+@media only screen and (max-width: 560px) {
+    div {
+        margin: 0;
+    }
+    nav ul li {
+        display: block;
+        float: none;
+        text-align: center;
+    }
+}
+
