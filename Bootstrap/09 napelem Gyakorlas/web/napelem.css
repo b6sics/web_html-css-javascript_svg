@@ -1,0 +1,12 @@
+#panelek img {
+  height: 40px;
+  margin: 2px;
+}
+
+.fk {
+  font-weight: bold;
+}
+
+label {
+  padding: 6px 0;
+}
