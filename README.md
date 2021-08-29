@@ -33,8 +33,9 @@ table th {
 | [04 Navbar](Bootstrap/04%20Fizu.hu%203%20Navbar/fizu/bootstrap04.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/04%20Fizu.hu%203%20Navbar/fizu/bootstrap04.html) | [.css](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/04%20Fizu.hu%203%20Navbar/fizu/bootstrap04.css) | [.docx](Bootstrap/04%20Fizu.hu%203%20Navbar/Fizu3.docx) |
 | [05 Card](Bootstrap/05%20Fizu.hu%204%20Card/bootstrap05.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/05%20Fizu.hu%204%20Card/bootstrap05.html) | [.css](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/05%20Fizu.hu%204%20Card/bootstrap05.html) | [.docx](Bootstrap/05%20Fizu.hu%204%20Card/Fizu4.docx) |
 | [06 Carousel](Bootstrap/06%20Fizu.hu%205%20Carousel/bootstrap06.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/06%20Fizu.hu%205%20Carousel/bootstrap06.html) | [.css](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/06%20Fizu.hu%205%20Carousel/bootstrap06.css) | [.docx](Bootstrap/06%20Fizu.hu%205%20Carousel/Fizu5.docx) |
-| [07]() | [.html]() | [.css]() | [.docx]() |
+| [07 Gyakorlas](Bootstrap/07%20fizu.hu%206%20Gyakorlas/bootstrap07.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/07%20fizu.hu%206%20Gyakorlas/bootstrap07.html) | [.css](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/07%20fizu.hu%206%20Gyakorlas/bootstrap07.css) | [.docx](Bootstrap/07%20fizu.hu%206%20Gyakorlas/Fizu6.docx) |
 | [08]() | [.html]() | [.css]() | [.docx]() |
+| [09]() | [.html]() | [.css]() | [.docx]() |
 
 ## SVG
 
