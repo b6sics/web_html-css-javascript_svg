@@ -12,8 +12,7 @@ table {
 }
     
 table td {
-    width: 25%;
-    min-width: 242px;
+    width: 100%;
 }
     
 table th {
