@@ -10,7 +10,7 @@ table {
     
 table td {
     width: 25%;
-    min-width: 240px;
+    min-width: 238px;
 }
     
 table th {
