@@ -4,8 +4,8 @@ webes fejlesztés 2.évfolyam
 
 <style>
 table {
-    padding: 1rem 0;
-    background: yellow;
+    border-top: 0.5rem solid jellow;
+    border-bottom: 0.5rem solid jellow;
 }
     
 table td {
