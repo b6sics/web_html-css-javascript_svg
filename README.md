@@ -6,11 +6,11 @@ webes fejlesztés 2.évfolyam
 table {
     padding: 1rem;
     background: yellow;
-    min-width: 96vw;
 }
     
 table td {
     width: 25%;
+    min-width: 20vw;
 }
     
 table th {
