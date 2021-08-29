@@ -9,8 +9,14 @@ table {
     border-bottom: 1px solid gray;
 }
     
+table td {
+    width: 33%;
+}
+    
 table th {
+    color: snow;
     background: gray;
+    font-weight: 900;
     word-wrap: break-word;
     text-align: center;
 }
