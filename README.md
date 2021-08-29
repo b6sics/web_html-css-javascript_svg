@@ -7,7 +7,7 @@ table {
     margin: 0 auto;
     padding: 1rem;
     width: 100%;
-    border-bottom: 1px solid gray;
+    background: yellow;
 }
     
 table td {
