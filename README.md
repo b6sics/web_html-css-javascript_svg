@@ -41,13 +41,31 @@ table th {
 
 ## SVG
 
-| lecke megoldás | html forráskód | style forráskód | feladat kiírás|
-|:--- | ---: | ---:| ---:|
-| [01]() | [.html]() | [.css]() | [.docx]() |
-| [02]() | [.html]() | [.css]() | [.docx]() |
-| [03]() | [.html]() | [.css]() | [.docx]() |
-| [04]() | [.html]() | [.css]() | [.docx]() |
-| [05]() | [.html]() | [.css]() | [.docx]() |
-| [06]() | [.html]() | [.css]() | [.docx]() |
-| [07]() | [.html]() | [.css]() | [.docx]() |
-| [08]() | [.html]() | [.css]() | [.docx]() |
+| lecke megoldás | html forráskód |
+|:--- | ---: |
+| [01 SVG - rectangle](SVG-2020-02-06/01%20SVG%20-%20rectangle.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/01%20SVG%20-%20rectangle.html) |
+| [02]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
+| [ ]() | [.html]() |
