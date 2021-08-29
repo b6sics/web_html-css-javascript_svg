@@ -3,11 +3,13 @@
 webes fejlesztés 2.évfolyam
 
 <style>
-body {
-    text-align: center;
+p {
+    text-align: justify;
 }
     
 table {
+    display: table;
+    margin: 0 auto;
     padding: 0.5rem;
     background: lightgray;
 }
