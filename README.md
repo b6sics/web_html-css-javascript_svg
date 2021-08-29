@@ -8,7 +8,7 @@ p {
 }
     
 table {
-    display: table;
+    display: block;
     margin: 0 auto;
     padding: 0.5rem;
     background: lightgray;
