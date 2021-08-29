@@ -22,8 +22,6 @@ table th {
   
 ## Bootstrap
 
-<center>
-
 | lecke megoldás | html forráskód | style forráskód | feladat kiírás|
 |:--- | ---: | ---:| ---:|
 | [01 Bevezetés](Bootstrap/01%2Bevezetes/Proba/bootstrap01.html) | [bootstrap01.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/01%20Bevezetes/Proba/bootstrap01.html) | | [docx](Bootstrap/01%2Bevezetes/bootstrap01%2Bevezetes.docx) |
@@ -34,8 +32,6 @@ table th {
 | [06]() | [06]() | [06]() | [docx]() |
 | [07]() | [07]() | [07]() | [docx]() |
 | [08]() | [08]() | [08]() | [docx]() |
-    
-</center>
 
 ## SVG
 
