@@ -61,6 +61,6 @@ table th {
 | [22 SVG - transfer](SVG-2020-02-06/22%20SVG%20-%20transfer.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/22%20SVG%20-%20transfer.html) |
 | [23-24 SVG - filter](SVG-2020-02-06/23-24%20SVG%20-%20filter.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/23-24%20SVG%20-%20filter.html) |
 
-# Home
+## Home
 
 > [b6sics.github.io](https://b6sics.github.io)
