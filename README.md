@@ -12,7 +12,7 @@ table {
 }
     
 table td {
-    width: 50%;
+    width: 40%;
 }
     
 table th {
