@@ -8,8 +8,6 @@ p {
 }
     
 table {
-    display: block;
-    margin: 0 auto;
     padding: 0.5rem;
     background: lightgray;
 }
@@ -23,6 +21,10 @@ table th {
     background: gray;
     font-weight: 900;
     word-wrap: break-word;
+}
+    
+blockquote {
+    text-align: center;
 }
 </style>
   
