@@ -3,6 +3,10 @@
 webes fejlesztés 2.évfolyam
 
 <style>
+p {
+    text-align: center;
+}
+    
 table {
     padding: 0.5rem;
     background: lightgray;
