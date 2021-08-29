@@ -3,23 +3,23 @@
 webes fejlesztés 2.évfolyam
 
 <style>
-.heatMap {
+.myTable {
     width: 960%;
     text-align: center;
     border-bottom: 1px solid gray;
 }
     
-.heatMap th {
+.myTable th {
     background: grey;
     word-wrap: break-word;
     text-align: center;
 }
 
-.heatMap tr { background: snow; }
+.myTable tr { background: snow; }
 
 </style>
 
-<div class="heatMap">
+<div class="myTable">
   
 ## Bootstrap
 
