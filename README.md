@@ -18,15 +18,6 @@ table th {
     font-weight: 900;
     word-wrap: break-word;
 }
-
-table tr:nth-child(even) {b
-    ackground: GhostWhite;
-}
-
-table tr:nth-child(odd) {b
-    ackground: Lavender;
-}
-
 </style>
   
 ## Bootstrap
