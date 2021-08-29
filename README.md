@@ -37,7 +37,7 @@ table th {
 | [08 Form](Bootstrap/08%20fizu.hu%207%20Form/fizu/bootstrap08.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/08%20fizu.hu%207%20Form/fizu/bootstrap08.html) | [.css](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/08%20fizu.hu%207%20Form/fizu/bootstrap08.css) | [.docx](Bootstrap/08%20fizu.hu%207%20Form/Fizu7.docx) |
 | [09 Gyakorlas](Bootstrap/09%20napelem%20Gyakorlas/web/napelem.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/09%20napelem%20Gyakorlas/web/napelem.html) | [.css](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/09%20napelem%20Gyakorlas/web/napelem.css) | [.docx](Bootstrap/09%20napelem%20Gyakorlas/Megoldas.docx) |
 | [10 Feladat](Bootstrap/F%20Feladat/haziFeladat.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/F%20Feladat/haziFeladat.html) | [.css](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/F%20Feladat/haziFeladat.css) | [.docx](Bootstrap/F%20Feladat/Suti.docx) |
-| Tananyag [.pdf](Bootstrap/tananyag.pdf) |||
+| Tananyag | | | [.pdf](Bootstrap/tananyag.pdf) |
 
 ## SVG
 
