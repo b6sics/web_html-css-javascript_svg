@@ -6,15 +6,17 @@ webes fejlesztés 2.évfolyam
 .heatMap {
     width: 960%;
     text-align: center;
+    border-bottom: 1px solid gray;
 }
+    
 .heatMap th {
-background: grey;
-word-wrap: break-word;
-text-align: center;
+    background: grey;
+    word-wrap: break-word;
+    text-align: center;
 }
-.heatMap tr:nth-child(1) { background: red; }
-.heatMap tr:nth-child(2) { background: orange; }
-.heatMap tr:nth-child(3) { background: green; }
+
+.heatMap tr { background: snow; }
+
 </style>
 
 <div class="heatMap">
