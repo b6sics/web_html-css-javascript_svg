@@ -63,4 +63,4 @@ table th {
 
 ## Home
 
-> [b6sics.github.io](https://b6sics.github.io)
+> [B6SicS](https://b6sics.github.io/)
