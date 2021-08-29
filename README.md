@@ -3,7 +3,7 @@
 webes fejlesztés 2.évfolyam
 
 <style>
-p {
+body {
     text-align: center;
 }
     
