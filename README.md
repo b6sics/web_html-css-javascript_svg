@@ -10,7 +10,7 @@ webes fejlesztés 2.évfolyam
 }
     
 .myTable th {
-    background: grey;
+    background: gray;
     word-wrap: break-word;
     text-align: center;
 }
