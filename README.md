@@ -44,28 +44,21 @@ table th {
 | lecke megoldás | html forráskód |
 |:--- | ---: |
 | [01 SVG - rectangle](SVG-2020-02-06/01%20SVG%20-%20rectangle.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/01%20SVG%20-%20rectangle.html) |
-| [02]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
-| [ ]() | [.html]() |
+| [02 SVG - ellipse](SVG-2020-02-06/02%20SVG%20-%20ellipse.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/02%20SVG%20-%20ellipse.html) |
+| [03 SVG - line](SVG-2020-02-06/03%20SVG%20-%20line.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/03%20SVG%20-%20line.html) |
+| [04 SVG - path](SVG-2020-02-06/04%20SVG%20-%20path.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/04%20SVG%20-%20path.html) |
+| [05 SVG - text](SVG-2020-02-06/05%20SVG%20-%20text.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/05%20SVG%20-%20text.html) |
+| [06 SVG - span](SVG-2020-02-06/06%20SVG%20-%20span.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/06%20SVG%20-%20span.html) |
+| [07 SVG - image](SVG-2020-02-06/07%20SVG%20-%20image.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/07%20SVG%20-%20image.html) |
+| [08-09 SVG - lineargradient](SVG-2020-02-06/08-09%20SVG%20-%20linear.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/08-09%20SVG%20-%20linear.html) |
+| [10-11 SVG - radialgradient](SVG-2020-02-06/10-11%20SVG%20-%20radial.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/10-11%20SVG%20-%20radial.html) |
+| [12-13 SVG - effecte](SVG-2020-02-06/12-13%20SVG%20-%20effecte.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/12-13%20SVG%20-%20effecte.html) |
+| [14-15 SVG - pattern](SVG-2020-02-06/14-15%20SVG%20-%20pattern.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/14-15%20SVG%20-%20pattern.html) |
+| [16-17 SVG - cut](SVG-2020-02-06/16-17%20SVG%20-%20cut.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/16-17%20SVG%20-%20cut.html) |
+| [18-19 SVG - textpath](SVG-2020-02-06/18-19%20SVG%20-%20textpath.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/18-19%20SVG%20-%20textpath.html) |
+| [20 SVG - animate](SVG-2020-02-06/20%20SVG%20-%20animate.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/20%20SVG%20-%20animate.html) |
+| [21 SVG - move](SVG-2020-02-06/21%20SVG%20-%20move.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/21%20SVG%20-%20move.html) |
+| [22 SVG - transfer](SVG-2020-02-06/22%20SVG%20-%20transfer.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/22%20SVG%20-%20transfer.html) |
+| [23-24 SVG - filter](SVG-2020-02-06/23-24%20SVG%20-%20filter.html) | [.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/SVG-2020-02-06/23-24%20SVG%20-%20filter.html) |
+
+> [b6sics.github.io](https://b6sics.github.io)
