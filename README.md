@@ -8,13 +8,12 @@ p {
 }
     
 table {
-    padding: 0.5rem 0;
-    background: lightgray;
+    padding: 0.5rem;
 }
     
 table td {
     width: 25%;
-    min-width: 240px;
+    min-width: 242px;
 }
     
 table th {
@@ -22,6 +21,14 @@ table th {
     background: gray;
     font-weight: 900;
     word-wrap: break-word;
+}
+    
+table th:first-child td{
+    border-top: 0.5rem solid lightgray; 
+}
+    
+table th:first-child td{
+    border-bottom: 0.5rem solid lightgray; 
 }
 </style>
   
