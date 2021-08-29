@@ -1,6 +1,6 @@
 # web_html-css-javascript_svg
 
-weboldalak fejlesztés 2.évfolyam
+weboldalak fejlesztése 2.évfolyam
 
 <style>
 p {
