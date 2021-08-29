@@ -3,7 +3,7 @@ webes fejlesztés 2.évfolyam
 
 ## Bootstrap leckék
 
-[01 Bevezetés](Bootstrap/01%2Bevezetes/Proba/bootstrap01.html) [bootstrap01 Bevezetes.docx](Bootstrap/01%2Bevezetes/bootstrap01%2Bevezetes.docx)
+> | [01 Bevezetés](Bootstrap/01%2Bevezetes/Proba/bootstrap01.html) | [bootstrap01 Bevezetes.docx](Bootstrap/01%2Bevezetes/bootstrap01%2Bevezetes.docx) |
 
 ## SVG leckék
 
