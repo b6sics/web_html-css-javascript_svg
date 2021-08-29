@@ -4,14 +4,12 @@ webes fejlesztés 2.évfolyam
 
 <style>
 table {
-    margin: 0 auto;
     padding: 1rem;
-    width: 100%;
     background: yellow;
 }
     
 table td {
-    width: 33%;
+    width: 33.3%;
 }
     
 table th {
