@@ -17,10 +17,15 @@ table th {
     background: gray;
     font-weight: 900;
     word-wrap: break-word;
-    text-align: center;
 }
 
-table tr { background: snow; }
+table tr:nth-child(even) {b
+    ackground: GhostWhite;
+}
+
+table tr:nth-child(odd) {b
+    ackground: Lavender;
+}
 
 </style>
   
