@@ -4,7 +4,9 @@ webes fejlesztés 2.évfolyam
 
 <style>
 table {
-    width: 96%;
+    margin: 0 auto;
+    padding: 1rem;
+    width: 100%;
     text-align: center;
     border-bottom: 1px solid gray;
 }
