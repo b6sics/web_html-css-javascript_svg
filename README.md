@@ -3,31 +3,28 @@
 webes fejlesztés 2.évfolyam
 
 <style>
-.myTable {
+table {
     width: 960%;
     text-align: center;
     border-bottom: 1px solid gray;
 }
     
-.myTable th {
+table th {
     background: gray;
     word-wrap: break-word;
     text-align: center;
 }
 
-.myTable tr { background: snow; }
+table tr { background: snow; }
 
 </style>
-
-<div class="myTable">
   
 ## Bootstrap
 
 | lecke | megoldás forráskód | feladat leírás|
 |:--- | ---: | ---:|
 | [01 Bevezetés](Bootstrap/01%2Bevezetes/Proba/bootstrap01.html) | [bootstrap01.html](https://github.com/b6sics/web_html-css-javascript_svg/blob/master/Bootstrap/01%20Bevezetes/Proba/bootstrap01.html) | [docx](Bootstrap/01%2Bevezetes/bootstrap01%2Bevezetes.docx) |
-  
-</div>
+
 
 ## SVG leckék
 
