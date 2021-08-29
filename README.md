@@ -4,7 +4,7 @@ webes fejlesztés 2.évfolyam
 
 <style>
 table {
-    padding: 0.5rem;
+    padding: 0.5rem auto;
     background: lightgray;
 }
     
